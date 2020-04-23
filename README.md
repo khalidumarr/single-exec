@@ -11,8 +11,8 @@ This Little file was built to avoid such senarios.
 
 ## Usage 
 Script works with following two parameters:
-1- Directory to store temp process file. (we'll use /tmp in example)
-2- Command for executing the task
+- Directory to store temp process file. (we'll use /tmp in example)
+- Command for executing the task
 
 ./single-exec.sh {TEMP_DIR_PATH} {COMMAND_TO_RUN_SCRIPT}
 
